@@ -9,3 +9,4 @@ Histórico das minhas aulas de programação mobile
 5 • Atribuindo valores de variaveis no texto. <br>
 6 • Projeto mobile: Uma tela de login simples. <br>
 7 • Usando o Scroll View. <br>
+8 • Usando SectionList. <br>
