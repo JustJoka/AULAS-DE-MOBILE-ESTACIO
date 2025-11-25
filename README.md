@@ -10,3 +10,5 @@ Histórico das minhas aulas de programação mobile
 6 • Projeto mobile: Uma tela de login simples. <br>
 7 • Usando o Scroll View. <br>
 8 • Usando SectionList. <br>
+9 • Usando VirtualizedList <br>
+10 • Projeto mobile: Um input que armazena o nome do usuário, usando AsyncStorage.
