@@ -1,16 +1,8 @@
 # MOBILE
 Histórico das minhas aulas de programação mobile
-
-1 • Projeto mobile: Um contador de cliques simples.<br>
-1+ • Projeto mobile melhorado: Contador de cliques, com botões que mudam o titulo da página.<br>
-2 • Projeto mobile: Uma calculadora de índice de massa corporal(IMC).<br>
-3 • Exportando o arquivo styles. <br>
-4 • Importando funções Default e não Default. <br>
-5 • Atribuindo valores de variaveis no texto. <br>
-6 • Projeto mobile: Uma tela de login simples. <br>
-7 • Usando o Scroll View. <br>
-8 • Usando SectionList. <br>
-9 • Usando VirtualizedList. <br>
-10 • Projeto mobile: Um input que armazena o nome do usuário, usando AsyncStorage.<br>
-11 • Projeto mobile: Um aplicativo de cadastro de alunos utilizando MockAPI para armazenas os dados.<br>
-12 • Projeto mobile: Um aplicativo de cadastro de alunos utilizando FireBase para armazenar os dados, junto com o botão de editar e excluir os dados.<br>
+1 • Exportando o arquivo styles. <br>
+2 • Importando funções Default e não Default. <br>
+3 • Atribuindo valores de variaveis no texto. <br>
+4 • Usando o Scroll View. <br>
+5 • Usando SectionList. <br>
+6 • Usando VirtualizedList. <br>
