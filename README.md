@@ -1,5 +1,5 @@
 # MOBILE
-Histórico das minhas aulas de programação mobile
+Histórico das minhas aulas de programação mobile<br>
 1 • Exportando o arquivo styles. <br>
 2 • Importando funções Default e não Default. <br>
 3 • Atribuindo valores de variaveis no texto. <br>
